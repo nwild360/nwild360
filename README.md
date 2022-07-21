@@ -1,1 +1,3 @@
 - 👋 Hi, I’m Nick Wild
+- This my a repsoitory for all the Python Projects I have worked on so far
+- Many of them are rough drafts and/or basic in functionality but they are for learning purposes 
